@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Accessible app</string>
+    <string name="instructions">This is a sample of an accessible app, write your name and click the button</string>
+    <string name="next_screen">Next screen</string>
+    <string name="insert_name">Insert your name</string>
+    <string name="name_label">Name</string>
+    <string name="moomin_image">This is an image of a moomin hugging a tree</string>
+    <string name="greetings">Hi </string>
+    <string name="credits">The picture used for this sample belongs to Moomin Characters Ltd.</string>
+    <string name="error_message">Error: please write your name</string>
+</resources>
